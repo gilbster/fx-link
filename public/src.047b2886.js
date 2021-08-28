@@ -14,7 +14,7 @@ var requestOptions = {
     
 };
 
-fetch("https://v1.nocodeapi.com/gilbster/netlify/vObPEkbIjGfFAujr/listSiteSubmissions?site_id=c0442dfd-4aa8-40f5-9dad-4dc177b34330", requestOptions)
+fetch("https://v1.nocodeapi.com/gilbster/netlify/vObPEkbIjGfFAujr/listFormSubmissions?form_id=612a71ee38ae5500079783f1", requestOptions)
     .then(response => response.text())
     .then(result => console.log(result))
     .catch(error => console.log('error', error));
