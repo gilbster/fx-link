@@ -12,11 +12,13 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  font-family: 'Inconsolata', monospace;
 }
 hr {
   box-sizing: content-box;
   height: 0;
   overflow: visible;
+  font-family: 'Inconsolata', monospace;
 }
 pre {
   font-family: monospace, monospace;
