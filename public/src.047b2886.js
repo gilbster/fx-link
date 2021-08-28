@@ -4,3 +4,17 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 "use strict";require("./styles.css");
 },{"./styles.css":"Tnu0"}]},{},["Focm"], null)
 //# sourceMappingURL=/src.047b2886.js.map
+
+var myHeaders = new Headers();
+myHeaders.append("Content-Type", "application/json");
+var requestOptions = {
+    method: "get",
+    headers: myHeaders,
+    redirect: "follow",
+    
+};
+
+fetch("https://v1.nocodeapi.com/gilbster/netlify/vObPEkbIjGfFAujr/listSiteSubmissions?site_id=c0442dfd-4aa8-40f5-9dad-4dc177b34330", requestOptions)
+    .then(response => response.text())
+    .then(result => console.log(result))
+    .catch(error => console.log('error', error));
