@@ -5,6 +5,7 @@ html {
 }
 body {
   margin: 0;
+  color: #1a202c;
 }
 main {
   display: block;
@@ -328,6 +329,10 @@ video {
 .to-blue-500 {
   --gradient-to-color: #022239;
 }
+.dark {
+  background-color: #022239;
+}
+
 .rounded {
   border-radius: 0.25rem;
 }
@@ -494,8 +499,8 @@ text-gray-900 {
 }
 .hover\:text-gray-900:hover {
   --text-opacity: 1;
-  color: #1a202c;
-  color: rgba(26, 32, 44, var(--text-opacity));
+  color: #425a8a;
+  /* color: rgba(26, 32, 44, var(--text-opacity)); */
 }
 .italic {
   font-style: italic;
