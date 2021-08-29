@@ -4,5 +4,5 @@ Allow: /public
 Allow: /
 
 User-agent: *
-Disallow: /
+Allow: /
 
