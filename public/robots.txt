@@ -1,4 +1,8 @@
 User-agent: *
-Allow: /rp*
-Allow: /robots.txt
 Disallow: /
+
+User-agent: Twitterbot
+Disallow:
+
+Allow: /public
+Allow: /
