@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/index"
-  to = "https://www.fxha.sh/index.html"
+  from = "/"
+  to = "index.html"
   status = 200
   force = true
 
