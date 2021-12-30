@@ -15,6 +15,12 @@
   to = "https://www.fxhash.xyz/u/Daniel%20Oropeza"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/calicojack"
+  to = "https://www.fxhash.xyz/u/calicojack.tez/collection"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "g/*"
