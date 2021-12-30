@@ -5,6 +5,12 @@
   force = true
 
 [[redirects]]
+  from = "/thanks"
+  to = "thanks.html"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/DanielOropeza"
   to = "https://www.fxhash.xyz/u/Daniel%20Oropeza"
   status = 301
