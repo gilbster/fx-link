@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/index"
+  to = "https://www.fxha.sh/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://www.fxhash.xyz/u/:splat"
+  status = 301
+  force = true
