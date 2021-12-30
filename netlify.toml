@@ -6,7 +6,13 @@
 
 [[redirects]]
   from = "/DanielOropeza"
-  to = "https://www.fxhash.xyz/u/:splat"
+  to = "https://www.fxhash.xyz/u/Daniel%20Oropeza"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "g/*"
+  to = "https://www.fxhash.xyz/generative/:splat"
   status = 301
   force = true
 
@@ -16,8 +22,3 @@
   status = 301
   force = true
 
-[[redirects]]
-  from = "g/*"
-  to = "https://www.fxhash.xyz/generative/:splat"
-  status = 301
-  force = true
