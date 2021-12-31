@@ -16,6 +16,12 @@
   status = 301
   force = true
   
+    [[redirects]]
+  from = "/nic"
+  to = "https://www.fxhash.xyz/u/nicthib"
+  status = 301
+  force = true
+  
   [[redirects]]
   from = "/calicojack"
   to = "https://www.fxhash.xyz/u/calicojack.tez/collection"
