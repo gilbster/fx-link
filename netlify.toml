@@ -36,6 +36,12 @@
   force = true
 
 [[redirects]]
+  from = "/Cryptocrystalline"
+  to = "https://www.fxhash.xyz/generative/8807"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "g/*"
   to = "https://www.fxhash.xyz/generative/:splat"
   status = 301
