@@ -15,6 +15,12 @@
   to = "https://www.fxhash.xyz/u/Daniel%20Oropeza"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/Gilbster"
+  to = "https://www.fxhash.xyz/u/gilbster"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/DOOM"
