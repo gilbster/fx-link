@@ -32,8 +32,7 @@
   from = "/DOOM"
   to = "https://www.fxhash.xyz/u/DoomOperator/collection"
   status = 301
-  force = true
-  
+  force = true  
   
 [[redirects]]
   from = "/nic"
@@ -50,6 +49,12 @@
 [[redirects]]
   from = "/Cryptocrystalline"
   to = "https://www.fxhash.xyz/generative/8807"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/spaceplant"
+  to = "https://www.fxhash.xyz/generative/10282"
   status = 301
   force = true
 
