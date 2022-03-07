@@ -57,6 +57,12 @@
   to = "https://www.fxhash.xyz/generative/10282"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/CLWBG"
+  to = "https://www.fxhash.xyz/generative/10433"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "g/*"
