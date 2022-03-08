@@ -65,6 +65,12 @@
   force = true
 
 [[redirects]]
+  from = "/MOBOHASH"
+  to = "https://www.fxhash.xyz/generative/10443"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "g/*"
   to = "https://www.fxhash.xyz/generative/:splat"
   status = 301
