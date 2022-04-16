@@ -71,7 +71,7 @@
   force = true
 
 [[redirects]]
-  from = "/🌺"
+  from = "/Shenandoah"
   to = "https://www.fxhash.xyz/generative/10979"
   status = 301
   force = true
