@@ -71,6 +71,18 @@
   force = true
 
 [[redirects]]
+  from = "/🌺"
+  to = "https://www.fxhash.xyz/generative/10979"
+  status = 301
+  force = true
+  
+  [[redirects]]
+  from = "/xn--3h8h"
+  to = "https://www.fxhash.xyz/generative/10979"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "g/*"
   to = "https://www.fxhash.xyz/generative/:splat"
   status = 301
