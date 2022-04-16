@@ -89,6 +89,12 @@
   force = true
 
 [[redirects]]
+  from = "/%F0%9F%8C%AE"
+  to = "https://www.fxhash.xyz/u/unpredictableTaco"
+  status = 301
+  force = true
+  
+[[redirects]]
   from = "/🌮"
   to = "https://www.fxhash.xyz/u/unpredictableTaco"
   status = 301
