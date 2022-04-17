@@ -107,6 +107,12 @@
   force = true
 
 [[redirects]]
+  from = "/Euphonic"
+  to = "https://www.fxhash.xyz/generative/10982"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "g/*"
   to = "https://www.fxhash.xyz/generative/:splat"
   status = 301
