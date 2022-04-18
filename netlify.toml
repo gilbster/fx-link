@@ -113,6 +113,12 @@
   force = true
 
 [[redirects]]
+  from = "/xDeads"
+  to = "https://www.fxhash.xyz/generative/slug/xdeads"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "g/*"
   to = "https://www.fxhash.xyz/generative/:splat"
   status = 301
