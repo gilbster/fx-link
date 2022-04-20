@@ -119,6 +119,12 @@
   force = true
 
 [[redirects]]
+  from = "/kumano"
+  to = "https://www.fxhash.xyz/generative/11484"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "g/*"
   to = "https://www.fxhash.xyz/generative/:splat"
   status = 301
