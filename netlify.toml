@@ -123,6 +123,18 @@
   to = "https://www.fxhash.xyz/generative/11484"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/COVER"
+  to = "https://www.fxhash.xyz/generative/11733"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cover"
+  to = "https://www.fxhash.xyz/generative/11733"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "g/*"
