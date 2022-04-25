@@ -131,6 +131,12 @@
   force = true
 
 [[redirects]]
+  from = "/oops"
+  to = "https://www.fxhash.xyz/generative/11919"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/cover"
   to = "https://www.fxhash.xyz/generative/11733"
   status = 301
