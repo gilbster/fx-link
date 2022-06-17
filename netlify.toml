@@ -141,6 +141,18 @@
   to = "https://www.fxhash.xyz/generative/11733"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/FXQUBE"
+  to = "https://www.fxhash.xyz/generative/14822"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/fxqube"
+  to = "https://www.fxhash.xyz/generative/14822"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "g/*"
